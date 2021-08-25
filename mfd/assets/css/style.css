@@ -1094,7 +1094,7 @@ iframe {
 
 /* Thanks Popup Meg */
 #thanks-meg{
-  display: block;
+  display: none;
 }
 #thanks-meg .thanks-container{
   position: fixed;
